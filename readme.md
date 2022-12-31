@@ -1,3 +1,3 @@
 ---
-title: Welcome to my GitHub Pages Blog.
+Title: Welcome to my GitHub Pages Blog.
 ---
